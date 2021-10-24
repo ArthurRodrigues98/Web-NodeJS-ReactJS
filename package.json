@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "typeorm": "^0.2.38",
+    "yarn": "^1.22.17"
+  }
+}
